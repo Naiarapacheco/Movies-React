@@ -2,8 +2,6 @@
 
 Este projeto utiliza a API do TMDB para buscar filmes em cartaz e exibir informações detalhadas, como título, sinopse e trailers. É construído com React e utiliza React Router para navegação.
 
-Utilizando a poderosa API do TMDB, o sistema permite aos usuários buscar por filmes recentemente lançados e obter informações detalhadas sobre cada um deles.
-
 ## Instalação
 
 Siga os passos abaixo para instalar e executar o projeto localmente.
@@ -11,7 +9,7 @@ Siga os passos abaixo para instalar e executar o projeto localmente.
 1. Clone o repositório:
 
    ```sh
-   git clone 
+   git clone https://github.com/Naiarapacheco/Movies-React.git
    cd filmes
 
 2. Instale as dependências:
